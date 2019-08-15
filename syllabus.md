@@ -5,26 +5,25 @@
 *Interactive media applications are no longer restricted to personal computers. They can now be found on many distinct hardware platforms including mobile, tablet, wearable, and large-screened computing devices. In this course, students will learn to design, prototype and develop media rich interactive experiences that can be deployed to a wide variety of hardware devices. Individual and group programming projects will be required. 3 Credits*
 
 ## II. Prerequisites
-IGME-201 or IGME-106 or equivalent course
+IGME-330
 
 ## III. Instructor and Class Details 
 
 ### Section 01
 - Professor: Tony Jefferson  
 - Teaching Assistant: TBA
-- Office:  GOL-2139 (IGM Main Office)
+- Office:  GOL-2525 (IGM "Hall")
 - Email: tony@mail.rit.edu
 - Office hours: 
-  - Tuesday/Thursday 2:15PM - 3:15PM in GOL-2139
-  - Tuesday/Thursday 6:15PM - 7:00PM in GOL-3510
-- Class meetings: TR 5:00PM - 6:15PM in GOL-3510
+  - MW 3:30PM - 4:45PM in GOL-2525
+  - TR 7:45PM - 8:30PM in GOL-3690
+- Class meetings: TR 6:30PM - 7:45PM in GOL-3690
 
 
 ## IV. Course Goal & Outcomes
 
 ### Projects
 - Magnetic Poetry App
-- Apple Watch App
 - Awesome App of your choosing
 
 ### Topics
