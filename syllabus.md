@@ -1,11 +1,11 @@
 # IGME-340 - Multi-platform Media App Development
-## Spring 2019: Syllabus
+## Fall 2019: Syllabus
 
 ## I. Course Catalog Description 
 *Interactive media applications are no longer restricted to personal computers. They can now be found on many distinct hardware platforms including mobile, tablet, wearable, and large-screened computing devices. In this course, students will learn to design, prototype and develop media rich interactive experiences that can be deployed to a wide variety of hardware devices. Individual and group programming projects will be required. 3 Credits*
 
 ## II. Prerequisites
-IGME-330
+IGME-330 Rich Media Web Application Development I
 
 ## III. Instructor and Class Details 
 
