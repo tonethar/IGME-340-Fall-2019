@@ -3,21 +3,21 @@
 
 ## Contents
 
-- [Week 01 (Jan 14) : Swift 4, Xcode Basics, Animation](#week1)
-- [Week 02 (Jan 21) : Storyboard, Outlets, and Actions](#week2)
-- [Week 03 (Jan 28) : Auto Layout and Data Structures](#week3)
-- [Week 04 (Feb 04) : Classes, UIPicker](#week4)
-- [Week 05 (Feb 11) : MVC / MVVM, Table Views, Navigation Controller, Core Location, Multiple Screens](#week5)
-- [Week 06 (Feb 18) : Design Patterns](#week6)
-- [Week 07 (Feb 25) : Apple Watch](#week7)
-- [Week 08 (Mar 04) : Catchup, Review & Midterm Exam](#week8)
-- ***Spring Break  3/10-3/17***
-- [Week 09 (Mar 18) : TBA](#week9)
-- [Week 10 (Mar 25) : TBA](#week10)
-- [Week 11 (Apr 01) : TBA](#week11)
-- [Week 12 (Apr 08) : TBA](#week12)
-- [Week 13 (Apr 15) : TBA](#week13)
-- [Week 14 (Apr 22) : Review & Final Exam](#week14)
+- [Week 01 (Aug 26) : Swift 4, Xcode Basics, Animation](#week1)
+- [Week 02 (Sep 02) : Storyboard, Outlets, and Actions](#week2)
+- [Week 03 (Sep 09) : Auto Layout and Data Structures](#week3)
+- [Week 04 (Sep 16) : Classes, UIPicker](#week4)
+- [Week 05 (Sep 23) : MVC / MVVM, Table Views, Navigation Controller, Core Location, Multiple Screens](#week5)
+- [Week 06 (Sep 30) : Design Patterns](#week6)
+- [Week 07 (Oct 07) : Apple Watch](#week7)
+- [Week 08 (Oct 14) : Catchup, Review & Midterm Exam](#week8)
+- [Week 09 (Oct 21) : TBA](#week9)
+- [Week 10 (Oct 28) : TBA](#week10)
+- [Week 11 (Nov 04) : TBA](#week11)
+- [Week 12 (Nov 11) : TBA](#week12)
+- [Week 13 (Nov 18) : TBA](#week13)
+- [Week 13.5 (Nov 25) : TBA](#week13)
+- [Week 14 (Dec 02) : Review & Final Exam](#week14)
 - [Finals Week Meeting](#finalsweek)
 
 
