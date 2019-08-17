@@ -16,7 +16,7 @@
 - [Week 11 (Nov 04) : TBA](#week11)
 - [Week 12 (Nov 11) : TBA](#week12)
 - [Week 13 (Nov 18) : TBA](#week13)
-- [Week 13.5 (Nov 25) : TBA](#week13)
+- [Week 13.5 (Nov 25) : TBA & Thanksgiving Break](#week13)
 - [Week 14 (Dec 02) : Review & Final Exam](#week14)
 - [Finals Week Meeting](#finalsweek)
 
