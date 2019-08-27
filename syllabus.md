@@ -51,7 +51,7 @@ None!
 
 ### The Swift Language
 
-* [Xcode 10.1 + Swift 4.2](https://developer.apple.com/swift/resources/)
+* [Xcode 10.3 + Swift 4](https://developer.apple.com/swift/resources/)
 * [Swift Programming Language](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html)
 * [WWDC Videos](https://developer.apple.com/videos/)
 
@@ -77,23 +77,23 @@ None!
 
 
 ## VIII. Computer Accounts
-You don't need an account to login in to the classroom Macs.
+I will provide that password for the lab Macs.
 
 All of these Macs are on "deep freeze" which means when you restart the machine every change you made or file you saved is wiped out. Always restart the machine (rather than logout) when you are done for the day. So bring a USB drive to class, or save your files to the cloud before you leave.
 
 If you have a problem using any of the Macs, please bring it to my attention.
 
 ## IX. iOS Hardware
-Many of you already have access to an iOS device. For the others we have a selection of iOS devices (iPad Airs and Apple Watches) to loan out.
+Many of you already have access to an iOS device. For the others we have a selection of iOS devices (iPad Airs, iPod Touches,  and Apple Watches) to loan out.
 
 1. **Important - bring your iOS device and cable to class every day**
 2. Bring headphones to listen to tutorial videos or tune out distractions 
 
 ## X. Mac Hardware
 
-- 10 IST Macs are available in the IST Open Lab GOL-2670 - they are currently running Xcode 10.1
+- 10 IST Macs are available in the IST Open Lab GOL-2670 - they are currently running Xcode 10.3
 - Wallace Library has iMacs for use, and Mac laptops to sign out - they are currently running Xcode ??
-- You may wish to install Xcode on your own Apple computer. A newer Mac is required to run Xcode 10.1.
+- You may wish to install Xcode on your own Apple computer. A newer Mac is required to run Xcode 10.3.
 
 ## XI. Attendance
 
