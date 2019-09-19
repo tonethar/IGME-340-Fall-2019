@@ -51,6 +51,9 @@
 
 <hr><hr>
 
+
+<a id="finalsubmission"></a>
+
 ### Required Final App Features  (see dropbox for due date)
 ***Late submissions will be not accepted***
 
