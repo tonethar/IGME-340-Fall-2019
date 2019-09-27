@@ -43,7 +43,7 @@
 			<li>Before loading a new word set the app needs to get rid of all of the old <code>UILabel</code>s. See this <a href="http://stackoverflow.com/questions/24312760/swift-how-will-i-remove-all-the-subviews-of-a-view/28516228#28516228">Stack Overflow post</a> on how to do this. (<i>-3 if not done</i>)</li>
 			<li>When new word sets are loaded, make sure that the words are not too close to the top or edges of the screen for the user to tap. Test for this fact on a real device. (<i>-2 if not done</i>)</li>
 			<li>Hide the status bar - you can do this on the main settings page for the app (<i>-2 if not done</i>)</li>
-			<li>Make sure your app name matches the name on the icon  - see <a href="https://developer.apple.com/library/content/qa/qa1823/_index.html">developer.apple.com - Updating the Display Name of Your App</a> (<i>-2 if not done</i>)</li>
+			<li>Make sure your app name matches the name on the icon  - see <a href="">[developer.apple.com  - Updating the Display Name of Your App](https://developer.apple.com/library/content/qa/qa1823/_index.html) and [Making the app name on a device consistent with the name in iTunes Connect](https://developer.apple.com/library/archive/qa/qa1892/_index.html) (<i>-2 if not done</i>)</li>
 			<li>Get rid of all compiler warnings - including those for unused variables and broken Storyboard constraints (<i>-1 per compiler warning</i>)</li>
 			<li>Make sure you still meet all of the checkpoint #1 requirements (<i>-1 per requirement not met</i>)</li>
 		</ol>
