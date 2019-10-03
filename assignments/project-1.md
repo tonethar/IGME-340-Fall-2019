@@ -68,7 +68,7 @@
 - Code Conventions
   - Class names are capitalized, instance variables begin in lowercase (*-1 per incidence*)
   - Code files in the Xcode *Project Navigator* are organized in groups for example, *VC*, *Model*, *Lib*, *Helpers*, *Extensions* etc...(*-5 if not done*)
-  - Get rid of all compiler warnings - including those for unused variables, missing icons, and broken Storyboard constraints (*-1 per compiler warning*)
+  - Get rid of all compiler warnings - including those for unused variables and broken Storyboard constraints - but don't wory about missing icon warnings (*-1 per compiler warning*)
   - Use `//MARK: - Some Category -` in your view controller classes to organize your code - possible categories include:
     - `ivars`
     - `Private Helper Methods`
