@@ -1,4 +1,4 @@
-# Project 2 - iOS App of Awesomeness
+# Project 2 - iOS App of Awesomeness - DRAFT
 
 ## I. Overview
 - Create a useful or entertaining iOS app or game in teams of 1 to 2 students. The app theme and capabilities should be "App Store ready" (or nearly so). The target hardware can be iPhone or iPad (or Universal).
